@@ -1,0 +1,2 @@
+solve:
+	runhaskell solve.hs
